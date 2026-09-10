@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0445-add-two-numbers-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1078-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
