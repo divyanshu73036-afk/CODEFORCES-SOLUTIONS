@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0445-add-two-numbers-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0838-design-linked-list) |
