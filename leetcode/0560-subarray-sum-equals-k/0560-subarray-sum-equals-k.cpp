@@ -12,8 +12,8 @@ public:
             if(ps[j]==k) count++;
             
             int val=ps[j]-k;
-            if(mpp.find(val)!=mpp.end()) count+=mpp[val];
-
+            if(mpp.find(val)!=mpp.end()) count+=mpp[val];//if found prev occurencess
+// dont mide below its just creating  a space in map with 0 if ps[j] dont exist
            // if(mpp.find(ps[j])==mpp.end()){
           //  mpp[ps[j]]=0;
           //  }
