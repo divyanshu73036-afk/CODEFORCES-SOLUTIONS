@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0966-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0966-binary-subarrays-with-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -129,9 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0966-binary-subarrays-with-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0503-next-greater-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
