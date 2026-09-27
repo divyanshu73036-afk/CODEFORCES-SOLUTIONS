@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1078-remove-outermost-parentheses) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0943-sum-of-subarray-minimums) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0735-asteroid-collision) |
 | [2317-count-collisions-on-a-road](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/2317-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
