@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
+| [0874-backspace-string-compare](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/2216-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0032-longest-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1720-crawler-log-folder) |
@@ -167,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0874-backspace-string-compare) |
 | [2317-count-collisions-on-a-road](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/2317-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
