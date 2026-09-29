@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0232-implement-queue-using-stacks) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0152-maximum-product-subarray) |
 | [0496-next-greater-element-i](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0503-next-greater-element-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0943-sum-of-subarray-minimums) |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0874-backspace-string-compare) |
 | [2317-count-collisions-on-a-road](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/2317-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/2470-removing-stars-from-a-string) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
