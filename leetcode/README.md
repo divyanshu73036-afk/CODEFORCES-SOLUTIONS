@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1039-find-the-town-judge) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1657-find-the-winner-of-an-array-game) |
 | [1720-crawler-log-folder](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1720-crawler-log-folder) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1792-find-the-most-competitive-subsequence) |
 | [2227-sum-of-subarray-ranges](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/2227-sum-of-subarray-ranges) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/0874-backspace-string-compare) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/1657-find-the-winner-of-an-array-game) |
 | [2317-count-collisions-on-a-road](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/2317-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/divyanshu73036-afk/CODEFORCES-SOLUTIONS/tree/master/LeetCode/2470-removing-stars-from-a-string) |
 ## Range Minimum/Maximum Query
